@@ -1,11 +1,11 @@
-#+TITLE: EmojifyJS -- a JavaScript parser/compressor/beautifier
+#+TITLE: KaomojifyJS -- a JavaScript parser/compressor/beautifier
 #+KEYWORDS: javascript, js, parser, compiler, compressor, mangle, minify, minifier, emoji
 #+DESCRIPTION: a JavaScript parser/compressor/beautifier in JavaScript
 #+STYLE: <link rel="stylesheet" type="text/css" href="docstyle.css" />
-#+AUTHOR: Mihai Bazon
+#+AUTHOR: Mihai Bazon, Max Klyga
 #+EMAIL: mihai.bazon@gmail.com
 
-👉EmojifyJS👈 is a fork of UglifyJS that mangles names with 🎊Emoji🎉 instead of alphanumeric characters. 👍
+(ಠ益ಠ) KaomojifyJS (ʘ̅ʖ̯ʘ̅) is a fork of UglifyJS that mangles names with Kaomoji instead of alphanumeric characters. ᶘᵔᴥᵔᶅ
 
 ** License
 
