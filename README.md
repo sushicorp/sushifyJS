@@ -1,9 +1,10 @@
-#SushifyJS -- a JavaScript fushifier
+#SushifyJS -- a JavaScript fishifier
 
 ## Ah, Okay
 
 ![2015-04-10 1 55 00](https://cloud.githubusercontent.com/assets/3132889/7072096/bf473688-df24-11e4-91e8-6c9493ea71f0.png)
 
+[DEMO](http://sushicorp.github.io/sushifyJS/)
 
 SushifyJS is a fork of KaomojifyJS, is a fork of UglifyJS, that mangles names with Sushi and Beer instead of alphanumeric characters.
 
