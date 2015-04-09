@@ -1,22 +1,17 @@
-#+TITLE: SushifyJS -- a JavaScript fushifier
-#+KEYWORDS: javascript, js, parser, compiler, compressor, mangle, minify, minifier, emoji
-#+DESCRIPTION: a JavaScript parser/compressor/beautifier in JavaScript
-#+STYLE: <link rel="stylesheet" type="text/css" href="docstyle.css" />
-#+AUTHOR: Mihai Bazon, Max Klyga
-#+EMAIL: mihai.bazon@gmail.com
+#SushifyJS -- a JavaScript fushifier
 
-** Ah, Okay
+## Ah, Okay
 
 ![2015-04-10 1 55 00](https://cloud.githubusercontent.com/assets/3132889/7072096/bf473688-df24-11e4-91e8-6c9493ea71f0.png)
 
 
 SushifyJS is a fork of KaomojifyJS, is a fork of UglifyJS, that mangles names with Sushi and Beer instead of alphanumeric characters.
 
-** License
+## License
 
 UglifyJS is released under the BSD license:
 
-#+BEGIN_EXAMPLE
+```
 Copyright 2010 (c) Mihai Bazon <mihai.bazon@gmail.com>
 Based on parse-js (http://marijn.haverbeke.nl/parse-js/).
 
@@ -45,4 +40,5 @@ THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR
 TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF
 THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF
 SUCH DAMAGE.
-#+END_EXAMPLE
+
+```
